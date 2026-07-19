@@ -2,6 +2,6 @@
 
 ## Links
 
-- Live app: https://jainabhishek.github.io/wc-final/
-- Source: https://github.com/jainabhishek/wc-final
-- Proof: https://github.com/jainabhishek/wc-final/blob/main/docs/model-proof.md
+- Live app: https://jainabhishek.github.io/world-cup-edge/
+- Source: https://github.com/jainabhishek/world-cup-edge
+- Proof: https://github.com/jainabhishek/world-cup-edge/blob/main/docs/model-proof.md

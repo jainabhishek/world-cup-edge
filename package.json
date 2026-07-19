@@ -5,13 +5,13 @@
   "description": "A transparent in-play probability, price, and position calculator for an Argentina-Spain trophy contract.",
   "license": "MIT",
   "author": "jainabhishek",
-  "homepage": "https://jainabhishek.github.io/wc-final/",
+  "homepage": "https://jainabhishek.github.io/world-cup-edge/",
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/jainabhishek/wc-final.git"
+    "url": "git+https://github.com/jainabhishek/world-cup-edge.git"
   },
   "bugs": {
-    "url": "https://github.com/jainabhishek/wc-final/issues"
+    "url": "https://github.com/jainabhishek/world-cup-edge/issues"
   },
   "keywords": [
     "football",
