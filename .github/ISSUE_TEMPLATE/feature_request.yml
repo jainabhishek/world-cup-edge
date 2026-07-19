@@ -1,0 +1,23 @@
+name: Feature request
+description: Suggest a focused improvement.
+title: "[Idea]: "
+labels: [enhancement]
+body:
+  - type: textarea
+    id: problem
+    attributes:
+      label: Problem to solve
+      description: What user need or limitation does this address?
+    validations:
+      required: true
+  - type: textarea
+    id: proposal
+    attributes:
+      label: Proposed change
+    validations:
+      required: true
+  - type: textarea
+    id: assumptions
+    attributes:
+      label: New model assumptions or risks
+      description: Required for changes to probability, pricing, sizing, or exits.

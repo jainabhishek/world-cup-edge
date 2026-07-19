@@ -2,6 +2,24 @@
   "name": "match-edge",
   "private": true,
   "version": "1.0.0",
+  "description": "A transparent in-play probability, price, and position calculator for an Argentina-Spain trophy contract.",
+  "license": "MIT",
+  "author": "jainabhishek",
+  "homepage": "https://jainabhishek.github.io/wc-final/",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/jainabhishek/wc-final.git"
+  },
+  "bugs": {
+    "url": "https://github.com/jainabhishek/wc-final/issues"
+  },
+  "keywords": [
+    "football",
+    "probability",
+    "prediction-markets",
+    "kelly-criterion",
+    "react"
+  ],
   "type": "module",
   "scripts": {
     "start": "vite --host 127.0.0.1",

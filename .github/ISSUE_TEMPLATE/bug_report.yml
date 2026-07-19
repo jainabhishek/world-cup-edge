@@ -1,0 +1,30 @@
+name: Bug report
+description: Report a reproducible problem in the calculator or interface.
+title: "[Bug]: "
+labels: [bug]
+body:
+  - type: textarea
+    id: summary
+    attributes:
+      label: What happened?
+      description: Describe the behavior and what you expected instead.
+    validations:
+      required: true
+  - type: textarea
+    id: inputs
+    attributes:
+      label: Calculator inputs
+      description: Include score, minute, team, price, bankroll, and commission.
+      placeholder: "Spain 0, Argentina 0, minute 0, Spain, $0.64, $1,000, 2%"
+    validations:
+      required: true
+  - type: textarea
+    id: reproduce
+    attributes:
+      label: Reproduction steps
+    validations:
+      required: true
+  - type: input
+    id: browser
+    attributes:
+      label: Browser and operating system
