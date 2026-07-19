@@ -26,7 +26,7 @@ probability estimate is a model assumption, not a theorem about the match.
 - [x] Verify the production build and core workflow in a real browser.
 - [x] Compare desktop and mobile screenshots with the design concepts.
 - [x] Initialize Git and commit the implementation on a feature branch.
-- [ ] Push to GitHub and create a pull request.
+- [x] Push to GitHub and create a pull request.
 
 ## Design decisions
 
