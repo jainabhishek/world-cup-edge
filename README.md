@@ -1,8 +1,8 @@
 # Match Edge
 
-[![CI](https://github.com/jainabhishek/wc-final/actions/workflows/ci.yml/badge.svg)](https://github.com/jainabhishek/wc-final/actions/workflows/ci.yml)
-[![Deploy](https://github.com/jainabhishek/wc-final/actions/workflows/pages.yml/badge.svg)](https://github.com/jainabhishek/wc-final/actions/workflows/pages.yml)
-[![Live demo](https://img.shields.io/badge/live-demo-1257d8)](https://jainabhishek.github.io/wc-final/)
+[![CI](https://github.com/jainabhishek/world-cup-edge/actions/workflows/ci.yml/badge.svg)](https://github.com/jainabhishek/world-cup-edge/actions/workflows/ci.yml)
+[![Deploy](https://github.com/jainabhishek/world-cup-edge/actions/workflows/pages.yml/badge.svg)](https://github.com/jainabhishek/world-cup-edge/actions/workflows/pages.yml)
+[![Live demo](https://img.shields.io/badge/live-demo-1257d8)](https://jainabhishek.github.io/world-cup-edge/)
 [![License: MIT](https://img.shields.io/badge/license-MIT-081433.svg)](LICENSE)
 
 ![Match Edge social preview](docs/social-preview.png)
@@ -13,7 +13,7 @@ Enter the score, minute, bankroll, contract price, and commission to get a
 transparent probability estimate, maximum entry price, conservative position
 size, and early-exit risk plan.
 
-[Try the live app](https://jainabhishek.github.io/wc-final/) ·
+[Try the live app](https://jainabhishek.github.io/world-cup-edge/) ·
 [Read the mathematical derivation](docs/model-proof.md) ·
 [See the share kit](docs/share-kit.md)
 
