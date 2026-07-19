@@ -1,4 +1,4 @@
-import { useEffect, useState } from "react";
+import React, { useEffect, useState } from "react";
 
 import { MODEL, PENALTY_SPAIN, TIED_AFTER_REGULATION_SPAIN } from "../model.js";
 

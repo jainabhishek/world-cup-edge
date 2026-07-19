@@ -1,3 +1,5 @@
+import React from "react";
+
 export function ScoreStepper({ team, value, onChange }) {
   const setValue = (nextValue) => onChange(Math.max(0, Math.min(20, nextValue)));
 

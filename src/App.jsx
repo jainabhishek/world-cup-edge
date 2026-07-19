@@ -1,4 +1,4 @@
-import { useMemo, useState } from "react";
+import React, { useMemo, useState } from "react";
 
 import { Field } from "./components/Field.jsx";
 import { Methodology } from "./components/Methodology.jsx";

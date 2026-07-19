@@ -1,3 +1,5 @@
+import React from "react";
+
 const TEAMS = [
   { id: "spain", label: "Spain" },
   { id: "argentina", label: "Argentina" },

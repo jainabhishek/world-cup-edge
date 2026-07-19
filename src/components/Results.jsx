@@ -1,3 +1,5 @@
+import React from "react";
+
 function asPercent(value, digits = 1) {
   return `${(value * 100).toFixed(digits)}%`;
 }
